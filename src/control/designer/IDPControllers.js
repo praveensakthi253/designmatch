@@ -178,6 +178,7 @@ class CategoriseIDPController {
   }
 }
 
+// Story #33: TagIDPController - Kwan Wei
 class TagIDPController {
   constructor(deps = {}) { this.e = { ...DEFAULTS, ...deps }; }
 

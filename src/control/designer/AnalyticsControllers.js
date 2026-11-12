@@ -46,7 +46,7 @@ class ViewPerformanceDashboardController {
     };
   }
 }
-
+// Story #34: ViewEnquiriesController - Kwan Wei
 class ViewEnquiriesController {
   constructor(deps = {}) { this.e = { ...DEFAULTS, ...deps }; }
 
